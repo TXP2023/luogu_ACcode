@@ -6,10 +6,9 @@ int l;
 
 void txk(vector<vector<char>> at,char m)
 {
-	int XX= a.size(),YY=a[0].size();
-	for (int i = 0; i < XX; i++)
+	for (int i = 0; i < at.size(); i++)
 	{
-		for (int j = 0; j<YY; j++)
+		for (int j = 0; j<at[0].size(); j++)
 		{
 			a[i][j]=m;
 		}
@@ -42,6 +41,7 @@ int main()
 		for (int j = 1; j < y+1; j++)
 		{
 			cin>>a[i][j];
+			//scanf("%c",&a[i][j]);
 		}
 	}
 	for (int i = 1; i < x+1; i++)
