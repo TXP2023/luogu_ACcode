@@ -7,7 +7,7 @@
 
 English
 This is a readme file
-This repository is called "luogu_ACcode". as its name suggests. This repository houses mine (the owner of this repository) AC code on Luogu, mostly written in C/C++. As of 2024/3/12, I am the only person who has edit permission on this repository.
+This repository is called "luogu_ACcode". as its name suggests. This repository houses mine (the owner of this repository) AC code on Luogu, mostly written in C/C++. As of 12/3/2024, I am the only person who has edit permission on this repository.
 appendix
 My luogu account ID is: TXP2023
 If you have any questions about this repository or similar problems, please contact me at luogu.com.cn.
